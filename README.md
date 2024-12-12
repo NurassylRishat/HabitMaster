@@ -13,6 +13,6 @@ PostgreSQL database with migrations
 
 👥 Team members
 
-Ivan Ivanov (Project Manager)
-Olga Petrova (Backend Developer)
-Alexey Smirnov (Frontend Developer)
+Myrzan Myrzakhan (Project Manager)
+Berik Zayniddinov (Backend Developer)
+Rishat Nurasyl (Frontend Developer)
